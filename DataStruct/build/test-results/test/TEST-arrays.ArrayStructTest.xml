@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="arrays.ArrayStructTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-22T20:10:47" hostname="LAPTOP-1U7U8C9H" time="0.021">
+  <properties/>
+  <testcase name="editElements()" classname="arrays.ArrayStructTest" time="0.021"/>
+  <system-out><![CDATA[Array Elements before modify
+420 69 21 8902 
+Array after modification
+420 21 21 8902 ]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
